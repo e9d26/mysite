@@ -1,5 +1,5 @@
 # mysite
-this is sample wep application being created by django (python framemwork).   
+this is sample wep application being created by django (python framework).   
 ## **Reference**  
 <https://djangogirlsjapan.gitbooks.io/workshop_tutorialjp/content/>
 
