@@ -1,7 +1,9 @@
 # mysite
-mysite being created by django
+this is sample wep application being created by django (python framemwork).   
+## **Reference**  
+<https://djangogirlsjapan.gitbooks.io/workshop_tutorialjp/content/>
 
-## Environment:
+## Environment
 * AmazonLinux1
 * Apache  2.2.34
 * python  3.6.4
